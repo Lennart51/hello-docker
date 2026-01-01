@@ -4,4 +4,4 @@ This project contains a simple Dockerfile that builds an image based on Alpine L
 When the container is run, it prints a greeting message to the console and exits.
 
 ## Project URL
-https://roadmap.sh/projects/docker-hello-world
+https://roadmap.sh/projects/basic-dockerfile
